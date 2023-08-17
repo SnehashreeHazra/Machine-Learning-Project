@@ -1,1 +1,1 @@
-# This is a project using MNIST Dataset which can recognise the handwritting System 
+# This is a project using MNIST Dataset which can recognise the handwriting System 
